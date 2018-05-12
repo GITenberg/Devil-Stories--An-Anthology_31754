@@ -1,0 +1,41 @@
+_repo: Devil-Stories--An-Anthology_31754
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Rudwin, Maximilian J. (Maximilian Josef)
+    alias: Rudwin, Maximilian Josef
+    birthdate: 1885
+    gutenberg_agent_id: '35448'
+    url: http://www.gutenberg.org/2009/agents/35448
+description: ''
+gutenberg_issued: '2010-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31754'
+  lccn: '21009055'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Devil -- Fiction'
+- !lcsh 'Short stories'
+- !lcc 'PN'
+- !lcsh 'Devil in literature'
+tableOfContents: The devil in a nunnery, by F.O. Mann -- Belphagor; or, The marriage
+  of the devil, by N. Machiavelli -- The devil and Tom Walker, by W. Irving -- From
+  the memoirs of Satan, by W. Hauff -- St. John's eve, by N.V. Gógol; tr. by Isabel
+  F. Hapgood -- The devil's wager, by W.M. Thackeray -- The painter's bargain, by
+  W.M. Thackeray -- Bon-Bon, by E.A. Poe -- The printer's devil, anonymous -- The
+  devil's mother-in-law, by F. Caballero; tr. by J.H. Ingram -- The generous gambler,
+  by C.P. Baudelaire; tr. by A. Symons -- The three low masses, by A. Daudet; tr.
+  by R. Routledge -- Devil-puzzlers, by F.B. Perkins -- The devil's round, by C. Deulin;
+  tr. by Isabel Bruce -- The legend of Mont St.-Michel, by G. de Maupassant -- The
+  demon pope, by R. Garnett -- Madam Lucifer, by R. Garnett -- Lucifer, by A. France;
+  tr. by A. Allinson -- The devil, by M. Górky; tr. by L. Wiener -- The devil and
+  the old man, by J. Masefield.
+title: 'Devil Stories: An Anthology'
+url: http://www.gutenberg.org/ebooks/31754
